@@ -1,0 +1,17 @@
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.exe
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.deps.json
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.runtimeconfig.json
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.dll
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.AssemblyReference.cache
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfoInputs.cache
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfo.cs
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.dll
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\refint\HtmlSerializer.dll
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.genruntimeconfig.cache
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\ref\HtmlSerializer.dll
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\JsonFiles\HtmlTags.json
+C:\Users\support.SELDAT\Desktop\רחלי\שנה ג\פרקטיקוד 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\JsonFiles\HtmlVoidTags.json

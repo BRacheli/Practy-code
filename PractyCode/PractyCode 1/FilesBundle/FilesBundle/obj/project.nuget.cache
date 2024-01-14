@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WXQvHHetuoTEaVXJzVjFt2HwVm4xYcjCt4INtxIZUtFZ3mbboKvxTkpNd7u9kQd+Uz8yboMLfJ+dujkCl7Twg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\support.SELDAT\\Desktop\\רחלי\\שנה ג\\פרקטיקוד\\FilesBundle\\FilesBundle\\fib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\support.SELDAT\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
